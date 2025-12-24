@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. Candidate**, The Hong Kong University of Science and Technology (Guangzhou), 2023 - Present
+* **M.Eng**, Southern University of Science and Technology, 2021 - 2023
+* **B.Eng**, Zhengzhou University, 2017 - 2021
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Electronic Design Automation (EDA)**, **Design for ML Accelerators**, **Efficient AI Algorithm**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Honors and Awards
+======
+* HKUST(GZ) Research Postgraduate Scholarship, 2023-present
+* SUSTech Outstanding graduates, 2023
+* Best Paper Nomination, 2022 National Graduate Forum on Microelectronics, 2023
+* 3rd Place of the EDA integrated circuit eda elite challenge, 2023
+* SUSTech Postgraduate Scholarship, 2021-2023
+* The Third Prize Scholarship, 2021
+* National Encouragement Scholarship, 2019, 2020
+* Merit Student of Zhengzhou University, 2019, 2020
+* The First Prize of Zhengzhou University in National Mathematics Competition, 2020
+* The Second Prize of Henan province in National Mathematics Competition, 2020
+* 1st Place of Zhengzhou University in “Qiushi Cup” Mathematics Competition, 2020
+* The First Prize of "Challenge Cup" National College Student Business Plan Competition, 2019
+* Excellent Student Cadre, 2019
+* Advanced Individual of Social Work, 2018
+* Excellent Student Volunteer, 2018
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Language**: Mandarin (Native), English (IELT 7.0/CET-6)
+* **Programming**: Python(Numpy, Scipy), C/C++, Verilog/SystemVerilog, MATLAB
+* **AI Framework**: Pytorch, Hugging-Face Transformers
+* **Software & Tools**: Markdown, LaTeX, Office
 
 Publications
 ======
@@ -47,7 +50,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
