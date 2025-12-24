@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * **Ph.D. Candidate**, The Hong Kong University of Science and Technology (Guangzhou), 2023 - Present
+  * Supervisor: Prof. Shanshi Huang & Prof. Wei Zhang (IEEE Fellow)
 * **M.Eng**, Southern University of Science and Technology, 2021 - 2023
+  * Supervisor: Prof. Quan Chen
 * **B.Eng**, Zhengzhou University, 2017 - 2021
 
 Research Interests

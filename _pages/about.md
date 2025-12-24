@@ -7,14 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the Microelectronic Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. Shanshi Huang and Prof. Wei Zhang (IEEE Fellow). I received my M.Eng degree from Southern University of Science and Technology in 2023, supervised by Prof. Quan Chen, and my B.Eng degree from Zhengzhou University in 2021.
+I am a Ph.D. Candidate in the Microelectronic Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. Shanshi Huang and Prof. Wei Zhang (IEEE Fellow). 
 
-My research interests include **Electronic Design Automation (EDA)**, **Design for ML Accelerators**, and **Efficient AI Algorithm**.
+My research interests lie at the intersection of **Electronic Design Automation (EDA)** and **AI Hardware**, with a specific focus on **Design for ML Accelerators** and **Efficient AI Algorithms**. I am dedicated to exploring heterogeneous computing architectures and mixed-signal compute-in-memory technologies to address the efficiency bottlenecks in modern AI workloads.
+
+Prior to my Ph.D., I obtained my M.Eng degree from Southern University of Science and Technology (2023) and B.Eng degree from Zhengzhou University (2021).
 
 Education
 ======
 * **Ph.D. Candidate**, The Hong Kong University of Science and Technology (Guangzhou), 2023 - Present
+  * Supervisor: Prof. Shanshi Huang & Prof. Wei Zhang (IEEE Fellow)
 * **M.Eng**, Southern University of Science and Technology, 2021 - 2023
+  * Supervisor: Prof. Quan Chen
 * **B.Eng**, Zhengzhou University, 2017 - 2021
 
 Selected Publications
