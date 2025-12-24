@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the Microelectronic Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. Shanshi Huang and Prof. Wei Zhang (IEEE Fellow). 
+I am a Ph.D. Candidate in the Microelectronic Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Shanshi Huang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/HUANG-Shanshi/shanshihuang) and [Prof. Wei Zhang](https://ece.hkust.edu.hk/eeweiz) (IEEE Fellow). 
 
 My research interests lie at the intersection of **Electronic Design Automation (EDA)** and **AI Hardware**, with a specific focus on **Design for ML Accelerators** and **Efficient AI Algorithms**. I am dedicated to exploring heterogeneous computing architectures and mixed-signal compute-in-memory technologies to address the efficiency bottlenecks in modern AI workloads.
 
@@ -16,9 +16,9 @@ Prior to my Ph.D., I obtained my M.Eng degree from Southern University of Scienc
 Education
 ======
 * **Ph.D. Candidate**, The Hong Kong University of Science and Technology (Guangzhou), 2023 - Present
-  * Supervisor: Prof. Shanshi Huang & Prof. Wei Zhang (IEEE Fellow)
+  * Supervisor: [Prof. Shanshi Huang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/HUANG-Shanshi/shanshihuang) & [Prof. Wei Zhang](https://ece.hkust.edu.hk/eeweiz) (IEEE Fellow)
 * **M.Eng**, Southern University of Science and Technology, 2021 - 2023
-  * Supervisor: Prof. Quan Chen
+  * Supervisor: [Prof. Quan Chen](https://sustech.edu.cn/en/faculties/chenquan.html)
 * **B.Eng**, Zhengzhou University, 2017 - 2021
 
 Selected Publications
