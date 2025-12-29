@@ -45,9 +45,6 @@ Honors and Awards
 * Merit Student of Zhengzhou University, 2019, 2020
 * The First Prize of Zhengzhou University in National Mathematics Competition, 2020
 * The Second Prize of Henan province in National Mathematics Competition, 2020
-* 1st Place of Zhengzhou University in “Qiushi Cup” Mathematics Competition, 2020
-* The First Prize of "Challenge Cup" National College Student Business Plan Competition, 2019
-* Excellent Student Cadre, 2019
 * Advanced Individual of Social Work, 2018
 * Excellent Student Volunteer, 2018
 
