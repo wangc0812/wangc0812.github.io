@@ -16,9 +16,10 @@ Education
 * **M.Eng**, Southern University of Science and Technology, 2021 - 2023
   * Supervisor: [Prof. Quan Chen](https://sustech.edu.cn/en/faculties/chenquan.html)
 * **B.Eng**, Zhengzhou University, 2017 - 2021
-s
+
 Research Interests
 ======
+
 **Computer Architcture**, **Electronic Design Automation (EDA)**, **Design for ML Accelerators**, **Efficient AI Algorithm**
 
 Honors and Awards
