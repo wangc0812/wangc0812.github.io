@@ -8,4 +8,4 @@ date: 2025-02-01
 location: "Guangzhou, China"
 ---
 
-Teaching Assistant for UCMP6010 Cross-disciplinary Research Methods, 2024-2025 Spring.
+Teaching Assistant for UCMP6010 Cross-disciplinary Research Methods, Spring 2025.

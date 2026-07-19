@@ -12,7 +12,7 @@ site_theme               : "default" # the available themes options are "default
 title                    : "Cong Wang"
 title_separator          : "-"
 name                     : &name "Cong Wang"  # Update this with your name
-description              : &description "Cong Wang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Cong Wang is a Ph.D. candidate working on electronic design automation, machine-learning accelerators, and domain-specific architecture."
 url                      : https://wangc0812.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "bio.png"
   name             : "Cong Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate | EDA & AI Hardware"
   location         : "Guangzhou, China"
   employer         : "HKUST(GZ)"
   uri              : # URL
@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles and Preprints'
   conferences:
     title: 'Conference Papers'
 
@@ -144,7 +144,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_description           : "Research in electronic design automation, machine-learning accelerators, and domain-specific architecture."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
