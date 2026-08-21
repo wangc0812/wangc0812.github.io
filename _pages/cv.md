@@ -56,8 +56,12 @@ Publications
 ============
 
 <ol>
-{% assign publications = site.publications | sort: "date" | reverse %}
-{% for post in publications %}
+{% assign priority_publications = site.publications | where_exp: "post", "post.priority" | sort: "priority" %}
+{% assign other_publications = site.publications | where_exp: "post", "post.priority == nil" | sort: "date" | reverse %}
+{% for post in priority_publications %}
+  <li>{{ post.citation }}</li>
+{% endfor %}
+{% for post in other_publications %}
   <li>{{ post.citation }}</li>
 {% endfor %}
 </ol>

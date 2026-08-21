@@ -34,10 +34,10 @@ Education
 Selected Publications
 =====================
 
-1. **Cong Wang**, Liangcheng Zhao, Zexin Fu, Jing Zhang, Xunqin Lai, Jiayi Huang, and Shanshi Huang. "A Scalable Cluster-based Heterogeneous CIM Chiplet Architecture for Vision Transformers." Under review.
-2. Ruihao He, **Cong Wang**, Liangcheng Zhao, Xipeng Lin, Shaoxuan Li, and Hongwu Jiang. "Quantifying Scalability-Performance Trade-offs: A Design Space Exploration of Compute-in-Memory based Ising Machines." *ACM Transactions on Design Automation of Electronic Systems*, 2026.
-3. Yihang Zuo, Zexin Fu, **Cong Wang**, Yucao Wu, Jiayi Huang, and Yuzhe Ma. "Harmony: A Hardware-Mapping Co-Exploration Framework for Hybrid CIM-based Vision Transformer Accelerator." *ISQED*, 2026. **Best Paper Award.**
-4. **Cong Wang**\*, Zexin Fu\*, Jiayi Huang, and Shanshi Huang. "Hemlet: A Heterogeneous Compute-in-Memory Chiplet Architecture for Vision Transformers with Group-Level Parallelism." *The 44th IEEE International Conference on Computer Design (ICCD)*, 2026. **Regular Paper.** (\*Co-first authors)
+1. **Cong Wang**, Liangcheng Zhao, Zexin Fu, Jing Zhang, Xunqin Lai, Jiayi Huang, and Shanshi Huang. "A Scalable Cluster-based Heterogeneous CIM Chiplet Architecture for Vision Transformers." *IEEE Transactions on Computers*, under review.
+2. **Cong Wang**\*, Zexin Fu\*, Jiayi Huang, and Shanshi Huang. "Hemlet: A Heterogeneous Compute-in-Memory Chiplet Architecture for Vision Transformers with Group-Level Parallelism." *The 44th IEEE International Conference on Computer Design (ICCD)*, 2026. (\*Co-first authors)
+3. Ruihao He, **Cong Wang**, Liangcheng Zhao, Xipeng Lin, Shaoxuan Li, and Hongwu Jiang. "Quantifying Scalability-Performance Trade-offs: A Design Space Exploration of Compute-in-Memory based Ising Machines." *ACM Transactions on Design Automation of Electronic Systems*, 2026.
+4. Yihang Zuo, Zexin Fu, **Cong Wang**, Yucao Wu, Jiayi Huang, and Yuzhe Ma. "Harmony: A Hardware-Mapping Co-Exploration Framework for Hybrid CIM-based Vision Transformer Accelerator." *ISQED*, 2026. **Best Paper Award.**
 5. **Cong Wang**, Zeming Chen, and Shanshi Huang. "MICSim: A Modular Pre-Circuit Simulator for Mixed-Signal Compute-in-Memory Accelerators in CNNs and Transformers." *Integration, the VLSI Journal*, 2025.
 6. **Cong Wang**, Zeming Chen, and Shanshi Huang. "MICSim: A Modular Simulator for Mixed-signal Compute-in-Memory based AI Accelerator." *ASP-DAC*, 2025.
 7. **Cong Wang**, Dongen Yang, Jinming Lyu, Yong Dai, Cheng Zhuo, and Quan Chen. "On Model Order Reduction and Exponential Integrator for Transient Circuit Simulation." *IEEE TCAD*, 2024.
