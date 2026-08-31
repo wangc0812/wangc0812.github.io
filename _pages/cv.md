@@ -25,33 +25,6 @@ Education
 * **B.Eng.**, Zhengzhou University, Sept. 2017 - Jul. 2021
   * School of Information Engineering
 
-Research and Project Experience
-===============================
-
-### MICSim: Open-Source CIM Accelerator Simulator
-
-*First contributor, Sept. 2023 - Jul. 2024*
-
-Developed a modular simulator for mixed-signal CIM accelerators in CNNs and Transformers. Unified model-accuracy and hardware-performance evaluation in the open-source [MICSim V1.0](https://github.com/MICSim-official/MICSim_V1.0) project.
-
-### Tiny TPU: MICS6000U Course Project
-
-*Teaching assistant and lead contributor, Fall 2024*
-
-Implemented a compact TPU in SystemVerilog and authored course tutorials and cocotb testbenches.
-
-### Transient Circuit Simulation Acceleration
-
-*Core contributor, Jan. 2022 - Jul. 2023*
-
-Developed exponential-integrator methods in an NSFC project to accelerate large-scale transient circuit simulation.
-
-### Model Order Reduction for Circuit Simulation
-
-*Primary contributor, Jul. 2021 - Aug. 2022*
-
-Developed industrial-grade C++ programs for model order reduction methods in a Huawei HiSilicon collaboration.
-
 Publications
 ============
 

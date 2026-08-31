@@ -16,7 +16,6 @@ My research lies at the intersection of **electronic design automation (EDA)**, 
 Research Highlights
 ===================
 
-* **CIM simulation and design-space exploration:** First contributor to [MICSim](https://github.com/MICSim-official/MICSim_V1.0), an open-source modular simulator that connects model-accuracy evaluation with hardware-performance estimation for mixed-signal CIM accelerators.
 * **Heterogeneous AI hardware:** Research on scalable CIM chiplet architectures, hybrid CIM accelerators, and hardware-mapping co-exploration for Vision Transformers.
 * **Circuit simulation:** Research on exponential integration and model order reduction for large-scale transient circuit simulation, with publications at IEEE TCAD and ICCAD.
 
