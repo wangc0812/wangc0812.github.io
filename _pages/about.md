@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Cong Wang"
-layout: homepage
+title: "About Me"
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
@@ -10,6 +10,8 @@ redirect_from:
 I am a Ph.D. candidate in the Microelectronic Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Shanshi Huang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/HUANG-Shanshi/shanshihuang) and [Prof. Wei Zhang](https://ece.hkust.edu.hk/eeweiz) (IEEE Fellow). I collaborate closely with [Prof. Jiayi Huang](https://jyhuang91.github.io/).
 
 My research lies at the intersection of **electronic design automation (EDA)**, **machine-learning accelerators**, and **domain-specific architecture**. I develop simulation methods, design-space exploration tools, and heterogeneous compute-in-memory (CIM) architectures for efficient AI systems.
+
+[Download my CV (PDF)](/files/Cong_Wang_CV.pdf){: .btn .btn--primary } &nbsp; [View all publications](/publications/){: .btn }
 
 ## Education
 
@@ -27,15 +29,11 @@ My research lies at the intersection of **electronic design automation (EDA)**, 
 {% assign priority_publications = selected_publications | where_exp: "post", "post.priority" | sort: "priority" %}
 {% assign other_publications = selected_publications | where_exp: "post", "post.priority == nil" | sort: "date" | reverse %}
 {% assign papers = priority_publications | concat: other_publications %}
-<ol class="paper-list">
+<ol>
 {% for post in papers %}
-  <li class="row no-gutters align-items-center border-bottom py-3">{% if post.cover %}<div class="col-sm-3 pr-sm-3"><a href="{{ post.cover | relative_url }}"><img class="paper-cover" loading="lazy" src="{{ post.cover | relative_url }}" alt="{{ post.title | escape }} figure"></a></div>{% endif %}<div class="col"><a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a>
-  <span>{{ post.citation | split: '."' | first | split: ' "' | first }}</span>
-  <span><i>{{ post.venue }}</i>{% unless post.venue contains '2027' %}, {{ post.date | date: '%Y' }}{% endunless %}{% if post.citation contains 'Best Paper Award' %} · <strong>Best Paper Award</strong>{% endif %}</span></div></li>
+  <li>{{ post.citation }}</li>
 {% endfor %}
 </ol>
-
-[Full publication list](/publications/)
 
 ## Honors and Awards
 
