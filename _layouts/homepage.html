@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/assets/css/homepage.css' | relative_url }}">
+<main class="academic-home">
+  <header class="identity">
+    <img src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" alt="Cong Wang">
+    <div><h1>Cong Wang <small lang="zh">王聪</small></h1>
+      <p>Ph.D. Candidate · Microelectronic Thrust<br>HKUST (Guangzhou)</p>
+      <nav aria-label="Contact and profiles"><a href="mailto:{{ site.author.email }}">Email</a>
+        <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+        <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+        <a href="{{ site.author.orcid }}">ORCID</a>
+        <a href="{{ '/files/Cong_Wang_CV.pdf' | relative_url }}">CV (PDF)</a></nav>
+    </div>
+  </header>
+  {{ content }}
+</main>
