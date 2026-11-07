@@ -1,8 +1,16 @@
 ---
-layout: default
+layout: null
 ---
-<link rel="stylesheet" href="{{ '/assets/css/homepage.css' | relative_url }}">
-<main class="academic-home">
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cong Wang | Academic Homepage</title>
+<link rel="stylesheet" href="/assets/academic-homepage/bootstrap.min.css">
+<link rel="stylesheet" href="/assets/academic-homepage/global.css">
+<link rel="stylesheet" href="/assets/css/homepage.css">
+</head><body class="bg-light">
+<nav class="navbar fixed-top border-bottom"><div class="container-lg"><a class="navbar-brand text-dark" href="/">Cong Wang</a><div><a href="/publications/">Publications</a> · <a href="/teaching/">Teaching</a> · <a href="/cv/">CV</a></div></div></nav>
+<main class="academic-home container-lg bg-white shadow-sm rounded-xl p-3 p-md-5">
   <header class="identity">
     <img src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" alt="Cong Wang">
     <div><h1>Cong Wang <small lang="zh">王聪</small></h1>
@@ -16,3 +24,5 @@ layout: default
   </header>
   {{ content }}
 </main>
+<footer class="container-lg text-muted small py-4">Template: <a href="https://github.com/luost26/academic-homepage">academic-homepage</a></footer>
+</body></html>
