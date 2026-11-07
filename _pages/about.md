@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Microelectronic Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Shanshi Huang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/HUANG-Shanshi/shanshihuang) and [Prof. Wei Zhang](https://ece.hkust.edu.hk/eeweiz) (IEEE Fellow). I collaborate closely with [Prof. Jiayi Huang](https://jyhuang91.github.io/).
+I am a Ph.D. candidate in the Microelectronic Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Shanshi Huang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/HUANG-Shanshi/shanshihuang) and [Prof. Wei Zhang](https://ece.hkust.edu.hk/eeweiz) (IEEE Fellow). I also collaborate closely with [Prof. Jiayi Huang](https://jyhuang91.github.io/).
 
 My research lies at the intersection of **electronic design automation (EDA)**, **machine-learning accelerators**, and **domain-specific architecture**. I develop simulation methods, design-space exploration tools, and heterogeneous compute-in-memory (CIM) architectures for efficient AI systems.
 
