@@ -104,6 +104,24 @@
   }
 }
 
+/* Frame the conference portrait around the face and upper body. */
+div.author__avatar:has(img[src*="cong-wang-iccd2026"]) {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 4 / 5;
+  img {
+    position: absolute;
+    width: 224%;
+    max-width: none;
+    height: auto;
+    left: -79%;
+    top: -58%;
+    padding: 0;
+    border: 0;
+  }
+}
+
 .author__content {
   display: table-cell;
   vertical-align: top;

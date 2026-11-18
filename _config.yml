@@ -23,7 +23,7 @@ repository               : "wangc0812/wangc0812.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio.png"
+  avatar           : "cong-wang-iccd2026.jpg"
   name             : "Cong Wang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate | EDA & AI Hardware"
