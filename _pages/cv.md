@@ -42,6 +42,8 @@ Publications
 Honors and Awards
 =================
 
+* Most Popular Poster, ICCD 2026
+
 * Second Prize, Compiler Track, 2026 InnoCIM University Challenge (存算一体高校挑战赛)
 * Best Paper Award, International Symposium on Quality Electronic Design (ISQED), 2026
 * HKUST(GZ) Research Postgraduate Scholarship, 2023-present

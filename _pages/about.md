@@ -25,7 +25,7 @@ My research lies at the intersection of **electronic design automation (EDA)**, 
 
 ## Selected Publications
 
-{% assign selected_publications = site.publications | where_exp: "post", "post.priority != 1" %}
+{% assign selected_publications = site.publications %}
 {% assign priority_publications = selected_publications | where_exp: "post", "post.priority" | sort: "priority" %}
 {% assign other_publications = selected_publications | where_exp: "post", "post.priority == nil" | sort: "date" | reverse %}
 {% assign papers = priority_publications | concat: other_publications %}
@@ -36,6 +36,8 @@ My research lies at the intersection of **electronic design automation (EDA)**, 
 </ol>
 
 ## Honors and Awards
+
+* Most Popular Poster, ICCD 2026
 
 * ICCD 2026 PhD Forum
 
